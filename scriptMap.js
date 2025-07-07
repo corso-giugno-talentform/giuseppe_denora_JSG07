@@ -29,14 +29,7 @@ const utenti = [
 ];
 
 
-/* lista.innerHTML=htmlElements;
 
-const htmlElements2= utenti.map(utente=>
-    `<li>
-    <span> ${utente.nome} - email: ${utente.email}</span>
-    </li>`
-).join(" ")
- */
 
 function creaTabella(divHooked) {
 
